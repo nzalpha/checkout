@@ -1,2 +1,2 @@
 @Library("com.nz.sl@main") _
-firstPipeline(appNam:'cart')
+firstPipeline(appNam:'cart1')
